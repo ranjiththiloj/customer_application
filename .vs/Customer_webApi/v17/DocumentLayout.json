@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Customer_webApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|d:\\asp.net\\customer_webapi\\customerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|solutionrelative:customerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|d:\\asp.net\\customer_webapi\\customerwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|solutionrelative:customerwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|d:\\asp.net\\customer_webapi\\customerwebapi\\controllers\\customerdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|solutionrelative:customerwebapi\\controllers\\customerdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|d:\\asp.net\\customer_webapi\\customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|solutionrelative:customerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|d:\\asp.net\\customer_webapi\\customerwebapi\\migrations\\20250703091434_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|solutionrelative:customerwebapi\\migrations\\20250703091434_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|d:\\asp.net\\customer_webapi\\customerwebapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|solutionrelative:customerwebapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|d:\\asp.net\\customer_webapi\\customerwebapi\\migrations\\20250705035700_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DCE15-0EFE-4DFE-83A3-A97B22F63C01}|CustomerwebApi\\CustomerwebApi.csproj|solutionrelative:customerwebapi\\migrations\\20250705035700_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250705035700_SecondCreate.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Migrations\\20250705035700_SecondCreate.cs",
+              "RelativeDocumentMoniker": "CustomerwebApi\\Migrations\\20250705035700_SecondCreate.cs",
+              "ToolTip": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Migrations\\20250705035700_SecondCreate.cs",
+              "RelativeToolTip": "CustomerwebApi\\Migrations\\20250705035700_SecondCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T03:57:00.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerwebApi\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Program.cs",
+              "RelativeToolTip": "CustomerwebApi\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:09:58.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250703091434_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Migrations\\20250703091434_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CustomerwebApi\\Migrations\\20250703091434_InitialCreate.cs",
+              "ToolTip": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Migrations\\20250703091434_InitialCreate.cs",
+              "RelativeToolTip": "CustomerwebApi\\Migrations\\20250703091434_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:14:34.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerwebApi\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\appsettings.json",
+              "RelativeToolTip": "CustomerwebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T09:03:50.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDbController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Controllers\\CustomerDbController.cs",
+              "RelativeDocumentMoniker": "CustomerwebApi\\Controllers\\CustomerDbController.cs",
+              "ToolTip": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Controllers\\CustomerDbController.cs",
+              "RelativeToolTip": "CustomerwebApi\\Controllers\\CustomerDbController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:59:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "CustomerwebApi\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "CustomerwebApi\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:57:28.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerwebApi\\Model\\Customer.cs",
+              "ToolTip": "D:\\ASP.NET\\Customer_webApi\\CustomerwebApi\\Model\\Customer.cs",
+              "RelativeToolTip": "CustomerwebApi\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:56:08.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

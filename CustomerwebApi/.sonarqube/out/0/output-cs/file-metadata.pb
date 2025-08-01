@@ -1,0 +1,16 @@
+v
+kD:\WebApi\Customer_webApi\CustomerwebApi\obj\Debug\net8.0\CustomerwebApi.MvcApplicationPartsAssemblyInfo.csutf-8c
+XD:\WebApi\Customer_webApi\CustomerwebApi\obj\Debug\net8.0\CustomerwebApi.AssemblyInfo.csutf-8s
+hD:\WebApi\Customer_webApi\CustomerwebApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8e
+ZD:\WebApi\Customer_webApi\CustomerwebApi\obj\Debug\net8.0\CustomerwebApi.GlobalUsings.g.csutf-8<
+3D:\WebApi\Customer_webApi\CustomerwebApi\Program.csutf-8C
+:D:\WebApi\Customer_webApi\CustomerwebApi\Model\Customer.csutf-8c
+XD:\WebApi\Customer_webApi\CustomerwebApi\Migrations\ApplicationDBContextModelSnapshot.csutf-8_
+TD:\WebApi\Customer_webApi\CustomerwebApi\Migrations\20250801081143_first.Designer.csutf-8T
+KD:\WebApi\Customer_webApi\CustomerwebApi\Migrations\20250801081143_first.csutf-8f
+[D:\WebApi\Customer_webApi\CustomerwebApi\Migrations\20250705035700_SecondCreate.Designer.csutf-8g
+\D:\WebApi\Customer_webApi\CustomerwebApi\Migrations\20250703091434_InitialCreate.Designer.csutf-8\
+SD:\WebApi\Customer_webApi\CustomerwebApi\Migrations\20250703091434_InitialCreate.csutf-8U
+LD:\WebApi\Customer_webApi\CustomerwebApi\Controllers\CustomerDbController.csutf-8[
+RD:\WebApi\Customer_webApi\CustomerwebApi\Migrations\20250705035700_SecondCreate.csutf-8N
+ED:\WebApi\Customer_webApi\CustomerwebApi\Data\ApplicationDBContext.csutf-8

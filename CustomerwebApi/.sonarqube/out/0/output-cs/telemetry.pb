@@ -1,0 +1,1 @@
+TR>D:\WebApi\Customer_webApi\CustomerwebApi\CustomerwebApi.csproj¢net8.0òCSharp12

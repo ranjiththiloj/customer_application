@@ -1,0 +1,1 @@
+D:\WebApi\Customer_webApi\CustomerwebApi\.sonarqube\out\0
