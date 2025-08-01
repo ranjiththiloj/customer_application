@@ -4,7 +4,7 @@ using MyApp.Data;
 using MyApp.Model;
 using System.Collections.Generic;
 
-namespace Myapp.Controllers
+namespace CustomerApp.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -17,13 +17,13 @@ namespace Myapp.Controllers
         }
         [HttpGet]
 
-        public async Task<ActionResult<IEnumerable<Customer>>> GetDatas()
+        public async Task<ActionResult<IEnumerable<Customer>>> GetCusomter()
         {
             return Ok(await _context.Customers.ToListAsync());
         }
 
         [HttpPost]
-        public async Task<IActionResult> InsertDatas(Customer customer)
+        public async Task<IActionResult> InsertCustomer(Customer customer)
         {
             if (customer == null || string.IsNullOrEmpty(customer.Name) || customer.Address == null)
             {
@@ -31,10 +31,10 @@ namespace Myapp.Controllers
             }
             await _context.Customers.AddAsync(customer);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(Get), new { id = customer.Id }, customer);
+            return CreatedAtAction(nameof(GetCusomter), new { id = customer.Id }, customer);
         }
         [HttpGet("{id}")]
-        public async Task<ActionResult<Customer>> Get(int id)
+        public async Task<ActionResult<Customer>> GetCustomerByID(int id)
         {
             var customer = await _context.Customers.FirstOrDefaultAsync(c => c.Id == id);
             if (customer == null)
@@ -62,15 +62,15 @@ namespace Myapp.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> DeleteCustomer(int id)
         {
-            var customer = _context.Customers.FirstOrDefault(c => c.Id == id);
+            var customer =  _context.Customers.FirstOrDefault(c => c.Id == id);
             if (customer == null)
             {
                 return NotFound();
             }
-            _context.Customers.Remove(customer);
-            _context.SaveChanges();
+             _context.Customers.Remove(customer);
+             await _context.SaveChangesAsync();
             return NoContent();
         }
     }

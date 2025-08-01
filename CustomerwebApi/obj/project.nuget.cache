@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgLcJuD2ceE=",
+  "dgSpecHash": "rA353EsYsN4=",
   "success": true,
-  "projectFilePath": "D:\\WebApi\\Customer_webApi\\CustomerwebApi\\CustomerwebApi.csproj",
+  "projectFilePath": "D:\\Assessment\\customer_application\\CustomerwebApi\\CustomerwebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ranjithkumar.p\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ranjithkumar.p\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

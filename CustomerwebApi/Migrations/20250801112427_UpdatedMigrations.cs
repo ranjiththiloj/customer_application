@@ -5,7 +5,7 @@
 namespace CustomerwebApi.Migrations
 {
     /// <inheritdoc />
-    public partial class first : Migration
+    public partial class UpdatedMigrations : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

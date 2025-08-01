@@ -11,8 +11,8 @@ using MyApp.Data;
 namespace CustomerwebApi.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20250801081143_first")]
-    partial class first
+    [Migration("20250801112427_UpdatedMigrations")]
+    partial class UpdatedMigrations
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
